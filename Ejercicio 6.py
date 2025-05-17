@@ -1,5 +1,4 @@
 # pedir horas trabajadas y costo por hora y mostrar pago
-import math
 horas_trabajadas = 0
 costo_hora = 0
 pago = 0
