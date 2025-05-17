@@ -1,5 +1,4 @@
 # calcular distancia
-import math
 horas = 0
 velocidad = 0
 distancia = 0
