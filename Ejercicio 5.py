@@ -1,5 +1,4 @@
 # pedir temperatura en celcius y escribirla en fahrenheit
-import math
 celsius = 0
 fahrenheit = 0
 while True:
