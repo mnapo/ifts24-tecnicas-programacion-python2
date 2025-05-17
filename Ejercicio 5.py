@@ -4,7 +4,7 @@ celsius = 0
 fahrenheit = 0
 while True:
   try:
-    pies = int(input("Ingrese grados celsius:"))
+    celsius = int(input("Ingrese grados celsius:"))
     break
   except ValueError:
     print("Cantidad inválida")
