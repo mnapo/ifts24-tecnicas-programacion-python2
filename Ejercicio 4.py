@@ -1,5 +1,4 @@
 # pedir pies y pulgadas y convertir a cm
-import math
 pies = 0
 pulgadas = 0
 cm = 0
