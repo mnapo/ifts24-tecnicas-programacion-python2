@@ -12,14 +12,14 @@ while True:
   break
 while True:
   try:
-    inversion = float(input("Ingrese interés anual:"))
+    interes_anual = float(input("Ingrese interés anual:"))
   except ValueError:
     print("Cantidad inválida")
     continue
   break
 while True:
   try:
-    inversion = int(input("Ingrese cantidad de años:"))
+    años = int(input("Ingrese cantidad de años:"))
   except ValueError:
     print("Cantidad inválida")
     continue
